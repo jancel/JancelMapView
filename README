@@ -1,0 +1,20 @@
+If you have done the map walthrough, and wanted to extend it
+just for location, this might be the repo for you.  This is 
+a working map demo that places the android logo in your current
+location, after it adjust the map to fit your area.
+
+= Installing
+Clont his repo, import the project into your workspace, navigate
+to res/layout/ and rename main.xml.example to main.xml.  Adjust with 
+your map key, and run it on an emulator or device of your choosing.
+
+Feel free to enhance and make suggestions, fork it, or whatevr.
+
+* References:
+
+http://developer.android.com/resources/tutorials/views/hello-mapview.html
+http://www.vogella.de/articles/AndroidLocationAPI/article.html
+
+Cheers.
+
+Jeff A.
